@@ -1,7 +1,7 @@
 # CourtCounter
 
 
-##Keeps track of basketball scores for two teams. 
+## Keeps track of basketball scores for two teams. 
 
 
 This project is about combining various ideas and skills, they include:
