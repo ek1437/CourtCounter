@@ -10,6 +10,10 @@ This project is about combining various ideas and skills, they include:
 * Creating, positioning, and styling views.
 * Creating interactivity through button clicks and Java code.
 * Commenting and documenting code.
+* Adding button code to app
+* Updating views
+* Properly scoping variables
+* Finding views by their ID
 
 
 By Eshawn Karim
