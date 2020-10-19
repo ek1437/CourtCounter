@@ -1,7 +1,7 @@
 # CourtCounter
 
 
-## Keeps track of basketball scores for two teams. 
+## Android Application: Keeps track of basketball scores for two teams. Utilized ConstraintLayout.
 
 
 This project is about combining various ideas and skills, they include:
